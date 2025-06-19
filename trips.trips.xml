@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-06-04 14:19:51.551530 by randomTrips.py v1_23_1+0000-676720d13f6
+<configuration>
+    <net-file value="test.net.xml"/>
+    <route-file value="map.rou.xml"/>
+    <length value="True"/>
+    <validate value="True"/>
+    <end value="1000.0"/>
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="28800531#11" to="-1346509148#2"/>
+    <trip id="1" depart="1.00" from="-993914908#1" to="-422160375#0"/>
+    <trip id="2" depart="2.00" from="28802146#1" to="28802146#1"/>
+    <trip id="3" depart="3.00" from="423054878" to="-28800531#9"/>
+    <trip id="4" depart="4.00" from="193223413#0" to="-1346509148#2"/>
+    <trip id="5" depart="5.00" from="-422788019" to="131765643#4"/>
+    <trip id="6" depart="6.00" from="-1346509148#2" to="-421426778#1"/>
+    <trip id="7" depart="7.00" from="28800531#7" to="1346509148#2"/>
+    <trip id="8" depart="8.00" from="-422788019" to="28785043#5"/>
+    <trip id="9" depart="9.00" from="28802157#3" to="28802157#3"/>
+    <trip id="10" depart="10.00" from="1221739173#0" to="-28802143#0"/>
+    <trip id="11" depart="11.00" from="701694170#0" to="1221739173#0"/>
+    <trip id="12" depart="12.00" from="-28802126#2" to="-28802126#0"/>
+    <trip id="13" depart="13.00" from="421426782#1" to="28800531#11"/>
+    <trip id="14" depart="14.00" from="28802157#3" to="28802157#3"/>
+    <trip id="15" depart="15.00" from="193223413#0" to="993914911#0"/>
+    <trip id="16" depart="16.00" from="1221739173#0" to="1346509148#2"/>
+    <trip id="17" depart="17.00" from="421426778#1" to="28800531#8"/>
+    <trip id="18" depart="18.00" from="422160375#1" to="28783632#2"/>
+    <trip id="19" depart="19.00" from="28802126#5" to="-28785043#2"/>
+    <trip id="20" depart="20.00" from="-423054878" to="-701694170#1"/>
+    <trip id="21" depart="21.00" from="-28800531#8" to="-422160375#1"/>
+    <trip id="22" depart="22.00" from="-28802126#4" to="-701694170#0"/>
+    <trip id="23" depart="23.00" from="28800531#1" to="1221739173#0"/>
+    <trip id="24" depart="24.00" from="1221739173#0" to="-421426780#1"/>
+    <trip id="25" depart="25.00" from="-993914908#1" to="878583750"/>
+    <trip id="26" depart="26.00" from="28800531#5" to="28800531#4"/>
+    <trip id="27" depart="27.00" from="-422160339" to="28802157#3"/>
+    <trip id="28" depart="28.00" from="-421426781#1" to="1221739173#0"/>
+    <trip id="29" depart="29.00" from="993914908#1" to="28802126#4"/>
+    <trip id="30" depart="30.00" from="421426781#1" to="422160346"/>
+    <trip id="31" depart="31.00" from="-423054878" to="-1346509148#2"/>
+    <trip id="32" depart="32.00" from="-422378937#1" to="878583751#0"/>
+    <trip id="33" depart="33.00" from="422378937#1" to="-993914911#0"/>
+    <trip id="34" depart="34.00" from="28800531#9" to="1221739173#2"/>
+    <trip id="35" depart="35.00" from="478821995#0" to="1221739173#2"/>
+    <trip id="36" depart="36.00" from="-878583751#2" to="-422378937#1"/>
+    <trip id="37" depart="37.00" from="28783632#0" to="-423054878"/>
+    <trip id="38" depart="38.00" from="28783632#0" to="478821995#1"/>
+    <trip id="39" depart="39.00" from="1346509148#2" to="-421426783#0"/>
+    <trip id="40" depart="40.00" from="993914911#0" to="131765643#4"/>
+    <trip id="41" depart="41.00" from="-28802126#2" to="-28785043#5"/>
+    <trip id="42" depart="42.00" from="-28802126#5" to="28800866#4"/>
+    <trip id="43" depart="43.00" from="28802157#3" to="1221739173#2"/>
+    <trip id="44" depart="44.00" from="-28800531#1" to="1221739173#2"/>
+    <trip id="45" depart="45.00" from="993914911#0" to="131765643#4"/>
+    <trip id="46" depart="46.00" from="878583750" to="478821995#0"/>
+    <trip id="47" depart="47.00" from="-1198845917" to="28802157#3"/>
+    <trip id="48" depart="48.00" from="28802126#2" to="1346509148#1"/>
+    <trip id="49" depart="49.00" from="-993914908#1" to="28802126#4"/>
+    <trip id="50" depart="50.00" from="-28802126#5" to="1221739173#2"/>
+  
+  
+
+</routes>
